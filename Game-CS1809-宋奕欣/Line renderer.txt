@@ -1,0 +1,2 @@
+left.setposition£¨0£¬position£©
+setposition£¨1£¬position£©
